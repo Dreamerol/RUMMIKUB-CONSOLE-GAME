@@ -88,7 +88,7 @@ The first player to empty their hand wins the game. Other players receive penalt
 
 Here’s an example of Rummikub tiles:
 
-![Rummikub Tiles](https://upload.wikimedia.org/wikipedia/commons/5/5a/Rummikub_tiles.jpg)
+![Rummikub Tiles](https://boardgoats.org/tag/rummikub/)
 
 ---
 
