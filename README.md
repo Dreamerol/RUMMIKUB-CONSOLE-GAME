@@ -9,7 +9,15 @@
 <img src="https://github.com/Dreamerol/Dreamerol/blob/cd7c3a8443730e5af56d1ae642a461862dd61bb0/ZRUMMICUB.jpg" alt="Rummikub" style="width:100%; height:auto; margin-bottom: 20px;">
 
 ---
+<div align="center">
 
+<img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
+<img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
+<img src="https://img.shields.io/badge/Paradigms-Procedural%20&amp;%20Modular-orange?style=for-the-badge" alt="Paradigms" height="40">
+<img src="https://img.shields.io/badge/Target-Audience-Students-lightgrey?style=for-the-badge" alt="Target Audience" height="40">
+
+</div>
+---
 <div align="left">
 
 🖥 **Development Environment:** Visual Studio  
