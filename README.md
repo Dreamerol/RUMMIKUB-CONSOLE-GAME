@@ -18,17 +18,15 @@
 
 </div>
 
-
-
 # 📖 Overview
 
-This project brings the classic Rummikub game to life using C++, turning the tabletop experience into a console-based digital simulation.
+This project brings the classic **Rummikub** game to life using C++, turning the tabletop experience into a console-based digital simulation.
 
 Imagine sitting at a table with friends: each player draws tiles, tries to form sequences or sets, and carefully plans their moves. In this project, the computer takes the role of both dealer and referee, handling the game logic, tile distribution, and validation automatically.
 
-I designed the program to be modular and object-oriented, using classes to represent players, tiles, and the game board. Dynamic data structures allow the program to manage each player’s hand and the pool of remaining tiles efficiently. Algorithms check for valid sets and sequences, ensuring that the rules of Rummikub are respected every turn.
+I designed the program to be modular and **object-oriented**, using **classes** to represent players, tiles, and the game board. Dynamic data structures allow the program to manage each player’s hand and the pool of remaining tiles efficiently. Algorithms check for valid sets and sequences, ensuring that the rules of Rummikub are respected every turn.
 
-Through this project, I learned how to model real-world game mechanics in code, simulate player interactions, and implement dynamic logic that adapts to the current state of the game. It’s more than just a game—it’s a hands-on exploration of OOP, dynamic arrays, and algorithmic problem-solving, showing how programming can capture the complexity and fun of classic board games.
+Through this project, I learned how to model **real-world game mechanics** in code, simulate player interactions, and implement **dynamic logic** that adapts to the current state of the game. It’s more than just a game—it’s a hands-on exploration of **OOP**, **dynamic arrays**, and **algorithmic problem-solving**, showing how programming can capture the complexity and fun of classic board games.
 
 ---
 
@@ -97,14 +95,10 @@ The first player to empty their hand wins the game. Other players receive penalt
 
 # 💡 Key Concepts Demonstrated
 
-- Object-Oriented Programming (classes and encapsulation)  
+- Object-Oriented Programming (**classes** and **encapsulation**)  
 - Dynamic arrays for flexible tile storage  
 - Algorithms for validating groups and runs  
 - Game state management for turns and combinations  
-
-
----
-
 # 🚀 Conclusion
 
 This project demonstrates how a complex game like Rummikub can be implemented using **OOP principles** and **dynamic data structures**. It highlights flexible tile storage, combination validation, and turn-based game logic in a clear and structured way.
