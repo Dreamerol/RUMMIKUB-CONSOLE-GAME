@@ -19,6 +19,7 @@
 
 ----
 
+
 # 📖 Overview
 
 This project brings the classic **Rummikub** game to life using C++, turning the tabletop experience into a console-based digital simulation.
@@ -100,6 +101,9 @@ The first player to empty their hand wins the game. Other players receive penalt
 - Dynamic arrays for flexible tile storage  
 - Algorithms for validating groups and runs  
 - Game state management for turns and combinations  
+
+---
+
 # 🚀 Conclusion
 
 This project demonstrates how a complex game like Rummikub can be implemented using **OOP principles** and **dynamic data structures**. It highlights flexible tile storage, combination validation, and turn-based game logic in a clear and structured way.
