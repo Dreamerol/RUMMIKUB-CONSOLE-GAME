@@ -15,14 +15,13 @@
 </div>
 
 
-
 This project is a C++ implementation of the classic **Rummikub** game. It demonstrates how to use **Object-Oriented Programming (OOP)** and **dynamic data structures** to implement game logic and tile combinations.
 
 ---
 
 # 📖 Overview
 
-The program simulates a simplified version of Rummikub where players draw and play tiles to form valid combinations. It shows how real-world game logic can be modeled using programming concepts such as classes, dynamic arrays, and algorithms.
+This project is a C++ implementation of the classic **Rummikub** game. It demonstrates how to use **Object-Oriented Programming (OOP)** and **dynamic data structures** to implement game logic and tile combinations. The program simulates a simplified version of Rummikub where players draw and play tiles to form valid combinations. It shows how real-world game logic can be modeled using programming concepts such as classes, dynamic arrays, and algorithms.
 
 ---
 
