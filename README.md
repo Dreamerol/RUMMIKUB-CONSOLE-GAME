@@ -3,8 +3,6 @@
 
 # 🎲 RUMMIKUB CONSOLE GAME - C++
 
----
-
 <div align="center">
 
 ---
