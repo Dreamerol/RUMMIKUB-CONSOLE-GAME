@@ -9,13 +9,28 @@
 <img src="https://github.com/Dreamerol/Dreamerol/blob/cd7c3a8443730e5af56d1ae642a461862dd61bb0/ZRUMMICUB.jpg" alt="Rummikub" style="width:100%; height:auto; margin-bottom: 20px;">
 
 ---
-<div align="center">
 
-<img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
-<img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
-<img src="https://img.shields.io/badge/Paradigms-Procedural%20&amp;%20Modular-orange?style=for-the-badge" alt="Paradigms" height="40">
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
 
 </div>
+
 
 ---
 
@@ -28,7 +43,32 @@
 
 </div>
 
+
 ---
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
+
+
+===
 
 # 📖 Overview
 
@@ -48,6 +88,32 @@ First, compile the program using a C++ compiler, and then run the executable. Th
 
 ---
 
+
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
+
+---
+
+
 # 🧱 Object-Oriented Design
 
 The project is structured using multiple classes, each responsible for a specific part of the game.
@@ -59,6 +125,30 @@ The project is structured using multiple classes, each responsible for a specifi
 **Player Class:** Represents each player, storing their tiles in a dynamic array (hand). It handles adding and removing tiles during gameplay and displays the current hand.
 
 **Game Class:** Controls the game flow, initializes the deck and players, manages turns, validates tile combinations, and checks win conditions.
+
+
+---
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
 
 ---
 
@@ -72,6 +162,30 @@ Dynamic arrays are essential for handling collections of tiles because the numbe
 
 ---
 
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
+
+---
+
+
 # 🧠 Tile Combinations
 
 The core of Rummikub gameplay is forming valid combinations:
@@ -81,7 +195,32 @@ The core of Rummikub gameplay is forming valid combinations:
 
 The program validates combinations by storing selected tiles in a dynamic array, checking for the required pattern, and rejecting invalid moves.
 
+
 ---
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
+
+---
+
 
 # 🔄 Game Mechanics
 
@@ -99,6 +238,31 @@ Jokers can substitute any tile and are flexible within combinations. They can be
 
 ---
 
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
+
+---
+
+
 # 🏆 Win Condition
 
 The first player to empty their hand wins the game. Other players receive penalty points equal to the value of the remaining tiles in their hands.
@@ -114,11 +278,41 @@ The first player to empty their hand wins the game. Other players receive penalt
 
 ---
 
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+
+</div>
+
+---
+
+
 # 🚀 Conclusion
 
 This project demonstrates how a complex game like Rummikub can be implemented using **OOP principles** and **dynamic data structures**. It highlights flexible tile storage, combination validation, and turn-based game logic in a clear and structured way.
 
----
+
+<h4 align="center" style="font-weight: normal;">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
+#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
+</h4>
+
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
