@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/63cd2c3fbae36d278a8e197b1e209b7038a320fd/ZRUMMICUB777.png" alt="Rummikub" style="width:100%; height:auto; margin-bottom: 20px;">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZRUMMICUB777.png" alt="Rummikub" style="width:100%; height:auto; margin-bottom: 20px;">
 
 <br>
 
