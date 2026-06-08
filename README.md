@@ -306,7 +306,6 @@ The first player to empty their hand wins the game. Other players receive penalt
 This project demonstrates how a complex game like Rummikub can be implemented using **OOP principles** and **dynamic data structures**. It highlights flexible tile storage, combination validation, and turn-based game logic in a clear and structured way.
 
 
-<br>
 
 <div align="center">
   <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
