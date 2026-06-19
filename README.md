@@ -6,7 +6,25 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Dreamerol/main/!!!_RUMMICUB.JPG" alt="Rummikub" style="width:100%; height:auto; margin-bottom: 20px;">
+
+<br>
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/main/!!!_RUMMICUB.JPG?raw=true"
+    alt="Portfolio Cards"
+    width="100%"/>
+
+</a>
+
+</div>
+
+
 
 
 <br>
