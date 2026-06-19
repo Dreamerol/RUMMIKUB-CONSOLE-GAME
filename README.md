@@ -12,18 +12,12 @@
 
 
 <div align="center">
-
-<a href="https://github.com/Dreamerol">
-
   <img
-    src="https://raw.githubusercontent.com/Dreamerol/main/!!!_RUMMICUB.JPG?raw=true"
-    alt="Portfolio Cards"
-    width="100%"/>
-
-</a>
-
+    src="https://raw.githubusercontent.com/Dreamerol/main/!!!_RUMMICUB.JPG"
+    alt="Rummicub Banner"
+    width="100%"
+  />
 </div>
-
 
 
 
