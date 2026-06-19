@@ -7,16 +7,13 @@
 </div>
 
 
-
-
-<br>
-
-
-[![](https://raw.githubusercontent.com/Dreamerol/main/!!!_RUMMICUB.JPG)
-
-
-<br>
-
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_RUMMICUB.JPG"
+    alt="Rummicub Banner"
+    width="100%"
+  />
+</div>
 
 
 
