@@ -12,14 +12,6 @@
 
 
 
-<br>
-
-
-[![](https://raw.githubusercontent.com/Dreamerol/main/!!!_RUMMICUB.JPG)](https://github.com/Dreamerol)
-
-
-<br>
-
 
 
 <br>
