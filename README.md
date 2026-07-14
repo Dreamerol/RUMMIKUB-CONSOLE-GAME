@@ -288,6 +288,17 @@ The first player to empty their hand wins the game. Other players receive penalt
 - Algorithms for validating groups and runs  
 - Game state management for turns and combinations  
 
+
+---
+
+
+# 🚀 Conclusion
+
+This project demonstrates how a complex game like Rummikub can be implemented using **OOP principles** and **dynamic data structures**. It highlights flexible tile storage, combination validation, and turn-based game logic in a clear and structured way.
+
+
+
+
 ---
 
 
@@ -311,17 +322,6 @@ The first player to empty their hand wins the game. Other players receive penalt
 
 
 </div>
-
----
-
-
-# 🚀 Conclusion
-
-This project demonstrates how a complex game like Rummikub can be implemented using **OOP principles** and **dynamic data structures**. It highlights flexible tile storage, combination validation, and turn-based game logic in a clear and structured way.
-
-
-
-
 
 
 ---
