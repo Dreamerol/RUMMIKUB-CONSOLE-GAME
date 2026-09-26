@@ -199,8 +199,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
 
+<div align="left">
 
 
 
@@ -338,8 +340,19 @@ This project demonstrates how a complex game like Rummikub can be implemented us
 
 
 
----
 
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+---
 
 
 
