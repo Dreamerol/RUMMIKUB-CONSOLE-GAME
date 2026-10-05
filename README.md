@@ -1,42 +1,32 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-# 🎲 𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++
-
-</div>
-
-
+<h1 align="center">
+  🎲 <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++</b>
+  </a>
+</h1>
 
 
 <br>
 
 
-
-
-
-<div align="center">
+<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_RUMMICUB.JPG"
-    alt="Rummicub Banner"
-    width="100%"
-  />
-</div>
+    alt="RUMMIKUB GAME : Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer""
+    style="width: 100%; height: auto; display: block;"
+  >
+</a>
 
 
 
 
 
+
+
+<br>
 
 <br>
 
