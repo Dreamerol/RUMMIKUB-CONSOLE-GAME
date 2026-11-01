@@ -9,7 +9,7 @@
 <h1 align="center">
   🎲 <a href="https://github.com/Dreamerol/CARDFOLIO"
      title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
-    <b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++</b>
+    <b>𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘</b>
   </a>
 </h1>
 
